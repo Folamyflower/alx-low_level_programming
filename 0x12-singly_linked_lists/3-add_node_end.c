@@ -1,9 +1,9 @@
 #include <stdlib.h>
-#include "lists.h"
 #include <string.h>
+#include "lists.h"
 
 /**
- * add_node_end - adds a brand new node at the end of a linked list
+ * add_node_end - adds a new node at the end of a linked list
  * @head: double pointer to the list_t list
  * @str: string to put in the new node
  *
